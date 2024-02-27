@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#121212</color> <!-- Dark gray for primary surface -->
+    <color name="colorPrimaryVariant">#878787</color> <!-- Darker gray for primary variant -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- White for text/icons on primary color -->
+
+    <color name="colorSecondary">#018786</color> <!-- Teal for secondary color -->
+    <color name="colorSecondaryVariant">#3700B3</color> <!-- Dark teal for secondary variant -->
+    <color name="colorOnSecondary">#FFFFFF</color> <!-- White for text/icons on secondary color -->
+
+    <color name="colorBackground">#121212</color> <!-- Background color for the dark theme -->
+    <color name="colorSurface">#121212</color> <!-- Surface color for components like cards, sheets, etc. -->
+    <color name="colorOnBackground">#FFFFFF</color> <!-- White for text/icons on background color -->
+    <color name="colorOnSurface">#FFFFFF</color> <!-- White for text/icons on surface color -->
+
+    <color name="colorError">#CF6679</color> <!-- Error color for the dark theme -->
+    <color name="colorOnError">#000000</color> <!-- Black for text/icons on error color -->
+</resources>

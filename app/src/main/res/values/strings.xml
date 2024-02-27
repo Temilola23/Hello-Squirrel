@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hello World</string>
+
+    <string name="first_name">Temilola</string>
+    <string name="last_name">Olowolayemo</string>
+    <string name="full_name">%s %s</string>
+
+    <string name="profile_bio_text">Hello! 👋🏽 I am an Android Developer based in SF with a passion for tech and the Internet of Things (IoT). Nice to meet you!</string>
+
+    <string name="profile_hobby_header_text">My Hobbies:</string>
+    <string name="profile_hobby_first_text">🥇 Programming 💻</string>
+    <string name="profile_hobby_second_text">🥈 Having thoughtful conversations 🖤</string>
+    <string name="profile_hobby_third_text">🥉 Taking on challenges -- and surmounting them 🙂</string>
+</resources>
