@@ -2,13 +2,13 @@
 
 # AND101 Project 1 - Hello, Squirrel!
 
-Submitted by: Temilola Olowolayemo
+Submitted by: **Temilola Olowolayemo**
 
 Time spent: **4** hours spent in total
 
 ## Summary
 
-**Hello Squirrel** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  It basially gives introductory info about the android developer and shows some familiarity with the environment.
+**Hello Squirrel** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  It basically gives introductory info about the Android developer and shows some familiarity with the environment.
 If I had to describe this project in three (3) emojis, they would be: **🔥❤️‍🔥🤯**
 
 ## Application Features
@@ -35,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://github.com/Temilola23/Hello-Squirrel/blob/master/GIF.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **ScreenToGif**
 
